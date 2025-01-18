@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wayanpratama38&show_icons=true&locale=en&layout=compact" alt="wayanpratama38" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wayanpratama38&show_icons=true&locale=en" alt="wayanpratama38" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wayanpratama38&" alt="wayanpratama38" /></p>
