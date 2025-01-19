@@ -6,7 +6,6 @@ I'm I Wayan Satya Widhya Putra Pratama, I enjoy creating impactful applications 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
-<br/>
 
 ## 📚 Interests  
 - 📱 Android app development with **Kotlin**.  
