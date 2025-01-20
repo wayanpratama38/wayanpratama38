@@ -2,7 +2,6 @@
 👋 Hi there! 
 I'm I Wayan Satya Widhya Putra Pratama, I enjoy creating impactful applications and continuously learning new technologies to solve real-world problems.
 
-<br/>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
