@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me
 👋 Hi there! 
 I'm I Wayan Satya Widhya Putra Pratama, I enjoy creating impactful applications and continuously learning new technologies to solve real-world problems.
 
