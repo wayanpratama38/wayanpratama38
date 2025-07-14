@@ -1,7 +1,7 @@
 <p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1000&color=8613F7&center=true&vCenter=true&repeat=false&width=435&lines=Introduction" alt="Typing SVG" /></a>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=8613F7&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+I+Wayan+Satya+Widhya+Putra+Pratama;You+Can+Call+Me+Adit;Dit+Tolongin+Dit!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=8613F7&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+I+Wayan+Satya+Widhya+Putra+Pratama;You+can+call+me+Adit;Dit+tolongin+Dit!" alt="Typing SVG" /></a>
 </p>
 
 # 📊 GitHub Stats:
